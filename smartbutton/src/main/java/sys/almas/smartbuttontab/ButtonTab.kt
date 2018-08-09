@@ -1,4 +1,4 @@
-package mohtasham.android.smartbutton
+package sys.almas.smartbuttontab
 
 import android.content.Context
 import android.os.Build
@@ -8,7 +8,6 @@ import android.widget.Button
 import android.widget.LinearLayout
 import io.reactivex.Observable
 import io.reactivex.android.schedulers.AndroidSchedulers
-import sys.almas.smartbutton.R
 
 import java.util.*
 

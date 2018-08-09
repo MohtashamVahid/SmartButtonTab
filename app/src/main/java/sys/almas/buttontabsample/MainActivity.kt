@@ -3,8 +3,8 @@ package sys.almas.buttontabsample
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import mohtasham.android.smartbutton.ButtonModel
-import mohtasham.android.smartbutton.ButtonTab
+import sys.almas.smartbuttontab.ButtonModel
+import sys.almas.smartbuttontab.ButtonTab
 
 
 class MainActivity : AppCompatActivity() {
